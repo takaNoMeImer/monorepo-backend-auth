@@ -1,0 +1,1 @@
+type TForm = React.FormEvent<HTMLFormElement>

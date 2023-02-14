@@ -1,0 +1,15 @@
+nav {
+    display: flex;
+    justify-content: flex-start;
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+form > *{
+    display: block;
+    margin-bottom: 1rem;
+}
